@@ -25,6 +25,7 @@ Revenue distribution among customers using a Lorenz curve.
 Examine certain correlations:
 The link between the gender of customers and the categories of books purchased.
 The link between customers' ages and the total amount of purchases, purchase frequency, average basket size, and categories of books purchased.
+
  
 Business Problem: 
 Analyze bookstore sales with Python 
