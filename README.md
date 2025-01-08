@@ -37,7 +37,7 @@ Project Scope:
 - Generation of graphics and visuals
 - Insights and Recommendations
 
-Data Preprocessing:
+Data Preprocessing
 - Imported 2 csv. data files (customers and products).
 - Studied the data values, checked the columns and rows.
 - Filled missing data with zero.
