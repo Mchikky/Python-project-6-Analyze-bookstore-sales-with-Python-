@@ -27,7 +27,7 @@ Revenue distribution among customers using a Lorenz curve.
 - The link between customers' ages and the total amount of purchases, purchase frequency, average basket size, and categories of books purchased.
 
  
-# Business Problem: Analyze bookstore sales with Python 
+# Business Problem: Analyze bookstore sales using Python 
 
 Project Scope: 
 - Data Preprocessing
