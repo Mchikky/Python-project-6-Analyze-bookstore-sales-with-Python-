@@ -27,16 +27,16 @@ The link between customers' ages and the total amount of purchases, purchase fre
  
 Business Problem: Analyze bookstore sales with Python 
 Project Scope: Data Preprocessing, Exploratory Data Analysis (EDA), Key Performance Indicators (KPIs), Generation of graphics and visuals, Insights and Recommendations
-Data Preprocessing:
-- Imported 2 csv. data files (customers and products).
-- Studied the data values, checked the columns and rows.
-- Filled missing data with zero.
-- Joined the 3 csv. data files.
-Exploratory Data Analysis (EDA) 
-- Summarized the data into total sales by each categories, total profit and the best selling category.
-- Checked for the outliers, normality, correlation coefficient, and caluclated zscores.
-Key Performance Indicators (KPIs)
-- Calculate total revenus from products by region
-Generation of graphics and visuals
-- Use bar plots for summaries, line graph for trends and scatter plot for relationships.
-- Used Lorenz curve for Gini index
+#Data Preprocessing:
+1. Imported 2 csv. data files (customers and products).
+2. Studied the data values, checked the columns and rows.
+3. Filled missing data with zero.
+4. Joined the 3 csv. data files.
+#Exploratory Data Analysis (EDA) 
+1. Summarized the data into total sales by each categories, total profit and the best selling category.
+2. Checked for the outliers, normality, correlation coefficient, and caluclated zscores.
+#Key Performance Indicators (KPIs)
+1. Calculate total revenus from products by region
+#Generation of graphics and visuals
+1. Use bar plots for summaries, line graph for trends and scatter plot for relationships.
+2. Used Lorenz curve for Gini index
