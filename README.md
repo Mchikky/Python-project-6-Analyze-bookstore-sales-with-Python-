@@ -22,15 +22,20 @@ Comparison of performance between different categories
 MISSION 2
 1. A more targeted analysis of customer profiles.
 Revenue distribution among customers using a Lorenz curve.
-Examine certain correlations:
-The link between the gender of customers and the categories of books purchased.
-The link between customers' ages and the total amount of purchases, purchase frequency, average basket size, and categories of books purchased.
+2. Examine certain correlations:
+- The link between the gender of customers and the categories of books purchased.
+- The link between customers' ages and the total amount of purchases, purchase frequency, average basket size, and categories of books purchased.
 
  
 Business Problem: 
 Analyze bookstore sales with Python 
+
 Project Scope: 
-Data Preprocessing, Exploratory Data Analysis (EDA), Key Performance Indicators (KPIs), Generation of graphics and visuals, Insights and Recommendations
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Key Performance Indicators (KPIs)
+- Generation of graphics and visuals
+- Insights and Recommendations
 
 Data Preprocessing:
 - Imported 2 csv. data files (customers and products).
