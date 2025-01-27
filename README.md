@@ -1,8 +1,8 @@
 # Project 6: Analyze bookstore sales with R or Python 
 
-Objectives of the presentation
+## Objectives of the presentation
 
-MISSION 1
+### MISSION 1
 1. Analysis of indicators and charts related to revenue
 Examine the key performance indicators related to revenue:
 Total revenue
@@ -19,7 +19,7 @@ The top-performing and underperforming references
 The distribution of revenue by product or service category
 Comparison of performance between different categories
 
-MISSION 2
+### MISSION 2
 1. A more targeted analysis of customer profiles.
 Revenue distribution among customers using a Lorenz curve.
 2. Examine certain correlations:
@@ -27,28 +27,31 @@ Revenue distribution among customers using a Lorenz curve.
 - The link between customers' ages and the total amount of purchases, purchase frequency, average basket size, and categories of books purchased.
 
  
-# Business Problem: Analyze bookstore sales using Python 
+## Business Problem: Analyze bookstore sales using Python 
 
-Project Scope: 
+### Project Scope: 
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Key Performance Indicators (KPIs)
 - Generation of graphics and visuals
 - Insights and Recommendations
 
-Data Preprocessing
+### Data Preprocessing
 - Imported 2 csv. data files (customers and products).
 - Studied the data values, checked the columns and rows.
 - Filled missing data with zero.
 - Joined the 3 csv. data files.
    
-Exploratory Data Analysis (EDA) 
+### Exploratory Data Analysis (EDA) 
 - Summarized the data into total sales by each categories, total profit and the best selling category.
 - Checked for the outliers, normality, correlation coefficient, and caluclated zscores.
    
-Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 - Calculate total revenus from products by region
    
-Generation of graphics and visuals
+### Generation of graphics and visuals
 - Use bar plots for summaries, line graph for trends and scatter plot for relationships.
 - Used Lorenz curve for Gini index
+
+### Insights and Recommendations
+- There is no need to remove the outliers, the costly goods; there are several ostentatioius goods that are part of the stock 
