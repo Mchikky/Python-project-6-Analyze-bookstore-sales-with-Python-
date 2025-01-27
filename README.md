@@ -1,4 +1,4 @@
-# Project 6: Analyze bookstore sales with R or Python 
+# Project 6: Analyze bookstore sales with Python 
 
 ## Objectives of the presentation
 
