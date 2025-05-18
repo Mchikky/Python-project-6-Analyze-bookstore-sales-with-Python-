@@ -1,33 +1,11 @@
 # Project 6: Analyze bookstore sales with Python 
+As a Data Analyst consultant at Lapage, originally a physical bookstore with several points of sale. But given the success of some of its products and its customers' enthusiasm, it decided 2 years ago to open an online sales site.
 
-## Objectives of the presentation
-
-### MISSION 1
-1. Analysis of indicators and charts related to revenue
-Examine the key performance indicators related to revenue:
-Total revenue
-Revenue by product or service
-Revenue by region
-Revenue growth
-2. Evolution over time and decomposition with a moving average
-To evaluate the overall revenue trend, use a time series analysis:
-Graph of monthly/quarterly revenue over a given period
-Use of a moving average (e.g., a 3-month moving average) to smooth out seasonal variations and identify the overall trend.
-3. Zoom in on references, top performers, underperformers, and distribution by category
-Delve deeper into the analysis by exploring:
-The top-performing and underperforming references
-The distribution of revenue by product or service category
-Comparison of performance between different categories
-
-### MISSION 2
-1. A more targeted analysis of customer profiles.
-Revenue distribution among customers using a Lorenz curve.
-2. Examine certain correlations:
-- The link between the gender of customers and the categories of books purchased.
-- The link between customers' ages and the total amount of purchases, purchase frequency, average basket size, and categories of books purchased.
-
- 
-## Business Problem: Analyze bookstore sales using Python 
+## Objectives 
+1. Take stock after two years of operation, analyze its strengths, weaknesses, client behaviors, etc.
+2. Analysis of the different sales indicators.
+3. A more targeted analysis of customers to understand the behavior of our online customers, to then be able to compare it with the knowledge acquired through our physical bookstores. 
+4. Look at certain correlations, the link between a client's gender and the categories of books purchased; the link between clients' age and the total purchase amount, purchase frequency, average basket size, and the categories of books purchased.
 
 ### Project Scope: 
 - Data Preprocessing
@@ -47,7 +25,27 @@ Revenue distribution among customers using a Lorenz curve.
 - Checked for the outliers, normality, correlation coefficient, and caluclated zscores.
    
 ### Key Performance Indicators (KPIs)
-- Calculate total revenus from products by region
+1a. Analysis of indicators and charts related to revenue
+Examine the key performance indicators related to revenue:
+Total revenue
+Revenue by product or service
+Revenue by region
+Revenue growth
+b. Evolution over time and decomposition with a moving average
+To evaluate the overall revenue trend, use a time series analysis:
+Graph of monthly/quarterly revenue over a given period
+Use of a moving average (e.g., a 3-month moving average) to smooth out seasonal variations and identify the overall trend.
+c. Zoom in on references, top performers, underperformers, and distribution by category
+Delve deeper into the analysis by exploring:
+The top-performing and underperforming references
+The distribution of revenue by product or service category
+Comparison of performance between different categories
+
+2a. A more targeted analysis of customer profiles.
+Revenue distribution among customers using a Lorenz curve.
+b. Examine certain correlations:
+- The link between the gender of customers and the categories of books purchased.
+- The link between customers' ages and the total amount of purchases, purchase frequency, average basket size, and categories of books purchased.
    
 ### Generation of graphics and visuals
 - Use bar plots for summaries, line graph for trends and scatter plot for relationships.
