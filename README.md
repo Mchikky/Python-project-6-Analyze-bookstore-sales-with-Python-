@@ -27,22 +27,25 @@ As a Data Analyst consultant at Lapage, originally a physical bookstore with sev
 ### Key Performance Indicators (KPIs)
 1a. Analysis of indicators and charts related to revenue
 Examine the key performance indicators related to revenue:
-Total revenue
-Revenue by product or service
-Revenue by region
-Revenue growth
+- Total revenue
+- Revenue by product or service
+- Revenue by region
+- Revenue growth
+
 b. Evolution over time and decomposition with a moving average
 To evaluate the overall revenue trend, use a time series analysis:
-Graph of monthly/quarterly revenue over a given period
-Use of a moving average (e.g., a 3-month moving average) to smooth out seasonal variations and identify the overall trend.
+- Graph of monthly/quarterly revenue over a given period
+- Use of a moving average (e.g., a 3-month moving average) to smooth out seasonal variations and identify the overall trend.
+
 c. Zoom in on references, top performers, underperformers, and distribution by category
 Delve deeper into the analysis by exploring:
-The top-performing and underperforming references
-The distribution of revenue by product or service category
-Comparison of performance between different categories
+- The top-performing and underperforming references
+- The distribution of revenue by product or service category
+- Comparison of performance between different categories
 
 2a. A more targeted analysis of customer profiles.
 Revenue distribution among customers using a Lorenz curve.
+
 b. Examine certain correlations:
 - The link between the gender of customers and the categories of books purchased.
 - The link between customers' ages and the total amount of purchases, purchase frequency, average basket size, and categories of books purchased.
