@@ -53,6 +53,9 @@ b. Examine certain correlations:
 ### Generation of graphics and visuals
 - Use bar plots for summaries, line graph for trends and scatter plot for relationships.
 
+<img width="448" alt="ap" src="https://github.com/user-attachments/assets/d324cc7b-4e90-4647-bef6-144cfc6f94b0" />
+
+
 <img width="423" alt="aaaap" src="https://github.com/user-attachments/assets/0eb02263-f08c-40db-9c1d-0ef9fa83b352" />
 
 
