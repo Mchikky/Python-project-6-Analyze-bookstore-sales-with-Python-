@@ -52,7 +52,23 @@ b. Examine certain correlations:
    
 ### Generation of graphics and visuals
 - Use bar plots for summaries, line graph for trends and scatter plot for relationships.
+
+<img width="707" alt="aap" src="https://github.com/user-attachments/assets/2b0d3da9-48d1-433e-8d36-aed43f960f5e" />
+
+<img width="709" alt="aaap" src="https://github.com/user-attachments/assets/d0ffc564-ab23-4c44-9d3e-fc4b14a13141" />
+
+<img width="423" alt="aaaap" src="https://github.com/user-attachments/assets/0eb02263-f08c-40db-9c1d-0ef9fa83b352" />
+  
+<img width="548" alt="aaaaap" src="https://github.com/user-attachments/assets/1163f4c8-e6b5-414b-9d90-cf8344213825" />
+
+<img width="727" alt="aaaaaaap" src="https://github.com/user-attachments/assets/28989489-bdcd-496b-8640-0059f5e602d6" />
+
+<img width="450" alt="aaaaaaaap" src="https://github.com/user-attachments/assets/ab6678c3-8bb9-4138-8a81-2b93901b3984" />
+
 - Used Lorenz curve for Gini index
+
+<img width="440" alt="aaaaaap" src="https://github.com/user-attachments/assets/56ea81ea-90c6-4459-997e-822c326bba7c" />
+  
 
 ### Insights and Recommendations
 - There is no need to remove the outliers, the costly goods; there are several ostentatioius goods that are part of the stock 
