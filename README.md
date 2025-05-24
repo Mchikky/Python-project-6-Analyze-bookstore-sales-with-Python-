@@ -15,11 +15,13 @@ As a Data Analyst consultant at Lapage, originally a physical bookstore with sev
 - Insights and Recommendations
 
 ### Data Preprocessing
-- Imported 2 csv. data files (customers and products).
+- Imported 3 csv. data files (customers, products, and transactions).
 - Studied the data values, checked the columns and rows.
 - Filled missing data with zero.
 - Joined the 3 csv. data files.
-   
+
+<img width="979" alt="aaa" src="https://github.com/user-attachments/assets/a885ab7d-4985-4962-9d8c-c881d3364aa3" />
+
 ### Exploratory Data Analysis (EDA) 
 - Summarized the data into total sales by each categories, total profit and the best selling category.
 - Checked for the outliers, normality, correlation coefficient, and caluclated zscores.
