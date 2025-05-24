@@ -18,7 +18,7 @@ As a Data Analyst consultant at Lapage, originally a physical bookstore with sev
 - Imported 3 csv. data files (customers, products, and transactions).
 - Studied the data values, checked the columns and rows.
 - Filled missing data with zero.
-- Joined the 3 csv. data files.
+- Joined the 3 csv. data files; first merge product file and transanction file.
 
 <img width="979" alt="aaa" src="https://github.com/user-attachments/assets/a885ab7d-4985-4962-9d8c-c881d3364aa3" />
 
